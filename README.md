@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hey, I'm Justice (Jay) 👋
-### Technical Lead · Odoo ERP · Python · AI/RAG Systems · Full-Stack
+### Technical Lead · Odoo ERP · Python · Nodejs · AI/RAG Systems · Full-Stack
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Justoo1&color=0e75b6&style=flat)](https://github.com/Justoo1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-6fda44?style=flat&logo=upwork)](https://upwork.com/freelancers/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/justiceamankrah/)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-6fda44?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~0137f9b67b1baf73b1)
 
 </div>
 
@@ -29,7 +29,7 @@ I build and scale enterprise systems that actually work in production. Currently
 stack = {
     "erp":        ["Odoo 16/17", "Odoo.sh", "Custom Modules", "XML/RPC"],
     "backend":    ["Python", "FastAPI", "Node.js", "Golang", "PostgreSQL"],
-    "frontend":   ["Next.js", "React", "TypeScript", "TailwindCSS"],
+    "frontend":   ["Next.js", "React", "TypeScript", "TailwindCSS", "React-Native"],
     "ai_ml":      ["RAG Pipelines", "LangChain", "OpenAI API", "Vector DBs"],
     "devops":     ["Docker", "GitHub Actions", "CI/CD", "Linux"],
     "databases":  ["PostgreSQL", "MongoDB", "Redis"],
