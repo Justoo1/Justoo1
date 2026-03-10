@@ -65,8 +65,8 @@ stack = {
 
 - 👨‍💻 Technical Lead @ [AttentiveScience](https://www.attentivescience.com) — building AI-powered healthcare & ERP systems
 - 🌍 Based in **Accra, Ghana** — working with global teams daily
-- 🔭 Open to **Odoo ERP** and **AI integration** freelance projects
-- 📫 Reach me via [Upwork](https://upwork.com/freelancers/your-profile) or [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 🔭 Open to **Odoo ERP**, **AI integration** and **Web application/Software development** freelance projects
+- 📫 Reach me via [Upwork](https://www.upwork.com/freelancers/~0137f9b67b1baf73b) or [LinkedIn](https://www.linkedin.com/in/justiceamankrah/) or [Website](https://justice.edtmsys.com/)
 
 ---
 
